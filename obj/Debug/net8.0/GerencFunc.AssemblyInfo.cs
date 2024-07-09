@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerencFunc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a6939abb4ce9c833c81dd281ad805e69ad32a5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerencFunc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerencFunc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

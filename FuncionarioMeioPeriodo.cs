@@ -9,7 +9,7 @@ public class FuncionarioMeioPeriodo : Funcionario
     }
      public override double CalcularSalario()
     {
-        return salariohora * horastrabalhadas;
+        return horastrabalhadas * salariohora;
     
     }
     public override void ExibirInformacao()
@@ -17,7 +17,7 @@ public class FuncionarioMeioPeriodo : Funcionario
         Console.WriteLine("------Informacoes Funcionarios------");
         Console.WriteLine($"      Nome: {nome}");
         Console.WriteLine($"      Numero matricula: {matricula}");
-        Console.WriteLine($"      Salario Meio Periodo: {CalcularSalario}");
+        Console.WriteLine($"      Salario Meio Periodo: {CalcularSalario()}");
     }
     public double CalcularBonus()
     {

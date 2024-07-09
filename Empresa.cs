@@ -1,16 +1,16 @@
 public class Empresa
 {
-    List<Funcionario> ListaDeFuncionarios = new List<Funcionario>();
+    public List<Funcionario> funcionarios= new List<Funcionario>();
     public void AdicionarFuncionario(Funcionario funcionario)
     {
-        ListaDeFuncionarios.Add(funcionario);
+        funcionarios.Add(funcionario);
     }
     public void RemoverFuncionario(int matricula)
     {
-        Funcionario FuncionarioRemover = ListaDeFuncionarios.Find(f => f.matricula == matricula);
+        Funcionario FuncionarioRemover = funcionarios.Find(f => f.matricula == matricula);
         if (FuncionarioRemover != null)
         {
-            ListaDeFuncionarios.Remove(FuncionarioRemover);
+            funcionarios.Remove(FuncionarioRemover);
         } 
         else
         {
@@ -19,15 +19,15 @@ public class Empresa
     }
     public void ExibirFuncionarios()
     {
-        if (ListaDeFuncionarios == null)
+        if (funcionarios == null)
         {
             Console.WriteLine("Não há funcionários nessa empresa");
         }
         else
         {
-            foreach (Funcionario f in ListaDeFuncionarios)
+            foreach (var funcionario in funcionarios)
             {
-                Console.WriteLine(f);
+                funcionario.ExibirInformacao();
             }
         }
     }

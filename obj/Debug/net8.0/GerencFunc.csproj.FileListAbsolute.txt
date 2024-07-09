@@ -1,0 +1,15 @@
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\bin\Debug\net8.0\GerencFunc.exe
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\bin\Debug\net8.0\GerencFunc.deps.json
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\bin\Debug\net8.0\GerencFunc.runtimeconfig.json
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\bin\Debug\net8.0\GerencFunc.dll
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\bin\Debug\net8.0\GerencFunc.pdb
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.sourcelink.json
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.dll
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\refint\GerencFunc.dll
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.pdb
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\GerencFunc.genruntimeconfig.cache
+C:\Users\Cristian\Desktop\GerenciamentoFuncionarios\GerencFunc\obj\Debug\net8.0\ref\GerencFunc.dll
